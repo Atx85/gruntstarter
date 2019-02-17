@@ -1,0 +1,10 @@
+build/autoprefixed/*
+build/browserified/*
+build/react/*
+build/sass/*
+node_modules
+.sass-cache
+package-lock.json
+app.js
+app.min.js
+style.min.css
